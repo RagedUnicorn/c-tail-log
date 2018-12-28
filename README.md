@@ -21,29 +21,47 @@ ctail [options][file]
 ## Flags
 
 ### help
-Prints the help usage  
-`-h --help`
+Prints the help usage
+
+```
+-h --help
+```
 
 ### color
 
-Deactivates colored output:  
-`-c --color`
+Deactivates colored output:
+
+```
+-c --color
+```
 
 ### silent
-Suppress all errors:  
-`-q --quiet`
+Suppress all errors:
+
+```
+-q --quiet
+```
 
 ### debug mode
-Show debug messages:  
-`-d --debug`
+Show debug messages:
+
+```
+-d --debug
+```
 
 ### verbose mode
-Show info messages:  
-`-v --verbose`
+Show info messages:
+
+```
+-v --verbose
+```
 
 ### initial lines
 Define how many lines should get printed at startup  
-`-l --lines` (MAX of 64 | 5 by default)
+
+```
+-l --lines (MAX of 64 | 5 by default)
+```
 
 ## License
 
