@@ -67,7 +67,7 @@ Define how many lines should get printed at startup
 
 MIT License
 
-Copyright (c) 2018 Michael Wiesendanger
+Copyright (c) 2019 Michael Wiesendanger
 
 Permission is hereby granted, free of charge, to any person obtaining
 a copy of this software and associated documentation files (the
